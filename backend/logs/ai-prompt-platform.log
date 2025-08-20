@@ -1,0 +1,654 @@
+2025-08-20 00:11:12 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m51s538ms).
+2025-08-20 00:27:16 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m34s254ms).
+2025-08-20 00:44:28 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m42s185ms).
+2025-08-20 01:00:24 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m55s647ms).
+2025-08-20 01:18:53 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m29s404ms).
+2025-08-20 01:36:40 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m47s99ms).
+2025-08-20 01:53:12 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m2s20ms).
+2025-08-20 02:11:41 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m28s597ms).
+2025-08-20 02:32:58 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m17s92ms).
+2025-08-20 02:49:57 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m29s349ms).
+2025-08-20 02:54:54 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m26s387ms).
+2025-08-20 03:10:43 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m49s458ms).
+2025-08-20 03:27:50 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m36s350ms).
+2025-08-20 03:44:29 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m8s949ms).
+2025-08-20 03:55:28 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m59s42ms).
+2025-08-20 04:13:32 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m34s392ms).
+2025-08-20 04:30:35 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m32s594ms).
+2025-08-20 04:46:52 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m46s797ms).
+2025-08-20 04:56:32 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m40s514ms).
+2025-08-20 05:13:06 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m4s448ms).
+2025-08-20 05:30:33 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m26s695ms).
+2025-08-20 05:47:59 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m26s204ms).
+2025-08-20 05:57:37 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m37s417ms).
+2025-08-20 06:14:07 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m59s994ms).
+2025-08-20 06:30:20 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m13s397ms).
+2025-08-20 06:46:42 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m51s312ms).
+2025-08-20 07:23:37 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 34735 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 07:23:37 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 07:23:37 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 07:23:38 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 07:23:38 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 07:23:38 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 21 ms. Found 0 Redis repository interfaces.
+2025-08-20 07:23:38 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 07:23:38 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 07:23:38 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 07:23:38 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 07:23:38 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1304 ms
+2025-08-20 07:23:39 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-08-20 07:23:39 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2025-08-20 07:23:39 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-08-20 07:23:39 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-08-20 07:24:23 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 07:24:23 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 07:24:32 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 36162 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 07:24:32 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 07:24:32 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 07:24:33 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 07:24:33 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 07:24:33 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2025-08-20 07:24:33 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 07:24:33 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 07:24:33 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 07:24:33 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 07:24:33 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 821 ms
+2025-08-20 07:24:34 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 07:24:34 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 2.039 seconds (process running for 2.373)
+2025-08-20 07:24:47 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 07:24:47 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 07:24:47 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2025-08-20 07:24:47 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 07:24:47 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@78bada00
+2025-08-20 07:24:47 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 07:29:33 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 07:29:33 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 07:30:04 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 43168 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 07:30:04 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 07:30:04 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 07:30:04 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 07:30:04 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 07:30:04 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2025-08-20 07:30:04 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 07:30:04 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 07:30:04 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 07:30:04 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 07:30:05 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 851 ms
+2025-08-20 07:30:05 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 07:30:05 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 2.068 seconds (process running for 2.38)
+2025-08-20 07:30:10 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 07:30:10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 07:30:10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-08-20 07:30:11 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 07:30:11 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@659c190c
+2025-08-20 07:30:11 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 07:40:25 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 07:40:25 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 07:40:29 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 55982 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 07:40:29 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 07:40:29 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 07:40:29 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 07:40:29 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 07:40:29 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2025-08-20 07:40:30 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 07:40:30 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 07:40:30 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 07:40:30 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 07:40:30 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 971 ms
+2025-08-20 07:40:31 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 07:40:31 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 2.12 seconds (process running for 2.438)
+2025-08-20 07:40:56 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 07:40:56 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 07:40:56 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2025-08-20 07:40:56 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 07:40:56 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@30d7bf6f
+2025-08-20 07:40:56 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 07:42:21 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 07:42:21 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 07:42:33 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 59041 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 07:42:33 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 07:42:33 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 07:42:33 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 07:42:33 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 07:42:33 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2025-08-20 07:42:34 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 07:42:34 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 07:42:34 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 07:42:34 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 07:42:34 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 844 ms
+2025-08-20 07:42:35 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 07:42:35 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 1.918 seconds (process running for 2.23)
+2025-08-20 07:42:39 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 07:42:39 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 07:42:39 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-08-20 07:42:39 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 07:42:40 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7fb346d3
+2025-08-20 07:42:40 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 07:45:30 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 07:45:30 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 07:45:41 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 63336 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 07:45:41 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 07:45:41 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 07:45:42 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 07:45:42 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 07:45:42 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2025-08-20 07:45:42 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 07:45:42 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 07:45:42 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 07:45:42 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 07:45:42 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 840 ms
+2025-08-20 07:45:43 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 07:45:43 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 1.93 seconds (process running for 2.226)
+2025-08-20 07:45:51 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 07:45:51 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 07:45:51 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2025-08-20 07:46:58 [http-nio-8080-exec-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 07:46:58 [http-nio-8080-exec-5] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@a1d5f85
+2025-08-20 07:46:58 [http-nio-8080-exec-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 07:50:18 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 07:50:18 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 07:50:27 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 69714 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 07:50:27 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 07:50:27 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 07:50:28 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 07:50:28 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 07:50:28 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2025-08-20 07:50:28 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 07:50:28 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 07:50:28 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 07:50:28 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 07:50:28 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1014 ms
+2025-08-20 07:50:29 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 07:50:29 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 2.235 seconds (process running for 2.543)
+2025-08-20 07:51:42 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 07:51:42 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 07:51:42 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2025-08-20 07:51:42 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 07:51:42 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7f28b25c
+2025-08-20 07:51:42 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 07:54:50 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 07:54:50 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 07:55:43 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 80336 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 07:55:43 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 07:55:43 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 07:55:43 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 07:55:43 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 07:55:43 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2025-08-20 07:55:44 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 07:55:44 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 07:55:44 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 07:55:44 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 07:55:44 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 899 ms
+2025-08-20 07:55:44 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 07:55:44 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 2.051 seconds (process running for 2.391)
+2025-08-20 07:56:10 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 07:56:10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 07:56:10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2025-08-20 07:56:10 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 07:56:10 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2a83c083
+2025-08-20 07:56:10 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 08:05:41 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 08:05:41 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 08:05:51 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 94882 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 08:05:51 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 08:05:51 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 08:05:51 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 08:05:51 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 08:05:51 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2025-08-20 08:05:52 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 08:05:52 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 08:05:52 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 08:05:52 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 08:05:52 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 805 ms
+2025-08-20 08:05:53 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 08:05:53 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 1.922 seconds (process running for 2.21)
+2025-08-20 08:06:01 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 08:06:01 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 08:06:01 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2025-08-20 08:06:01 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 08:06:01 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3a74fa0a
+2025-08-20 08:06:01 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 08:08:35 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 08:08:35 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 08:08:43 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 98852 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 08:08:43 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 08:08:43 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 08:08:43 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 08:08:43 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 08:08:43 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2025-08-20 08:08:43 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 08:08:43 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 08:08:43 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 08:08:43 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 08:08:43 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 911 ms
+2025-08-20 08:08:44 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 08:08:44 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 2.181 seconds (process running for 2.54)
+2025-08-20 08:08:59 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 08:08:59 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 08:08:59 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2025-08-20 08:08:59 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 08:08:59 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5ca3602a
+2025-08-20 08:08:59 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 08:14:02 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 08:14:02 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 08:14:17 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 6499 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 08:14:17 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 08:14:17 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 08:14:17 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 08:14:17 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 08:14:17 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2025-08-20 08:14:18 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 08:14:18 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 08:14:18 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 08:14:18 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 08:14:18 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 841 ms
+2025-08-20 08:14:19 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 08:14:19 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 1.9 seconds (process running for 2.251)
+2025-08-20 08:14:30 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 08:14:30 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 08:14:30 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2025-08-20 08:14:30 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 08:14:31 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4d472c4c
+2025-08-20 08:14:31 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 08:14:42 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 08:14:42 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 08:15:06 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 8099 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 08:15:06 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 08:15:06 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 08:15:06 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 08:15:06 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 08:15:06 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2025-08-20 08:15:07 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 08:15:07 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 08:15:07 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 08:15:07 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 08:15:07 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 830 ms
+2025-08-20 08:15:08 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 08:15:08 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 1.948 seconds (process running for 2.258)
+2025-08-20 08:15:19 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 08:15:19 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 08:15:19 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2025-08-20 08:15:20 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 08:15:20 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3300cfdb
+2025-08-20 08:15:20 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 08:17:15 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 08:17:15 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 08:17:24 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 11350 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 08:17:24 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 08:17:24 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 08:17:24 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 08:17:24 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 08:17:24 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2025-08-20 08:17:25 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 08:17:25 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 08:17:25 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 08:17:25 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 08:17:25 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 871 ms
+2025-08-20 08:17:25 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 08:17:25 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 1.937 seconds (process running for 2.276)
+2025-08-20 08:17:54 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 12292 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 08:17:54 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 08:17:54 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 08:17:54 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 08:17:54 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 08:17:54 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2025-08-20 08:17:55 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 08:17:55 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 08:17:55 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 08:17:55 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 08:17:55 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 867 ms
+2025-08-20 08:17:55 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 08:17:55 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 1.93 seconds (process running for 2.254)
+2025-08-20 08:17:59 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 08:17:59 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 08:17:59 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 30 ms
+2025-08-20 08:18:01 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 08:18:01 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2b732228
+2025-08-20 08:18:01 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 08:21:13 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 08:21:13 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 08:21:23 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 16841 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 08:21:23 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 08:21:23 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 08:21:23 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 08:21:23 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 08:21:23 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2025-08-20 08:21:24 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 08:21:24 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 08:21:24 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 08:21:24 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 08:21:24 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 834 ms
+2025-08-20 08:21:24 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 08:21:24 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 1.88 seconds (process running for 2.192)
+2025-08-20 08:21:39 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 08:21:39 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 08:21:39 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-08-20 08:22:51 [http-nio-8080-exec-10] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 08:22:51 [http-nio-8080-exec-10] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@79f041ea
+2025-08-20 08:22:51 [http-nio-8080-exec-10] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 08:23:32 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 08:23:32 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 08:23:43 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 20642 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 08:23:43 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 08:23:43 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 08:23:44 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 08:23:44 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 08:23:44 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2025-08-20 08:23:44 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 08:23:44 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 08:23:44 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 08:23:44 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 08:23:44 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 847 ms
+2025-08-20 08:23:45 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 08:23:45 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 2.008 seconds (process running for 2.258)
+2025-08-20 08:24:00 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 08:24:00 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 08:24:00 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2025-08-20 08:24:00 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 08:24:00 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@78fd585b
+2025-08-20 08:24:00 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 08:24:25 [http-nio-8080-exec-9] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.ServletRequestBindingException: Missing request attribute 'userId' of type Long]
+2025-08-20 08:24:32 [http-nio-8080-exec-10] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.ServletRequestBindingException: Missing request attribute 'userId' of type Long]
+2025-08-20 08:25:24 [http-nio-8080-exec-1] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.ServletRequestBindingException: Missing request attribute 'userId' of type Long]
+2025-08-20 08:25:37 [http-nio-8080-exec-2] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.ServletRequestBindingException: Missing request attribute 'userId' of type Long]
+2025-08-20 08:26:30 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 08:26:30 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 08:26:50 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 25500 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 08:26:50 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 08:26:50 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 08:26:51 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 08:26:51 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 08:26:51 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2025-08-20 08:26:51 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 08:26:51 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 08:26:51 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 08:26:51 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 08:26:51 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 964 ms
+2025-08-20 08:26:52 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 08:26:52 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 2.067 seconds (process running for 2.4)
+2025-08-20 08:27:09 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 08:27:09 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 08:27:09 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2025-08-20 08:27:09 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 08:27:09 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@d3562c8
+2025-08-20 08:27:09 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 08:28:53 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 08:28:53 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 08:29:04 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 28741 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 08:29:04 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 08:29:04 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 08:29:04 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 08:29:04 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 08:29:04 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2025-08-20 08:29:04 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 08:29:04 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 08:29:04 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 08:29:05 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 08:29:05 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 900 ms
+2025-08-20 08:29:05 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 08:29:05 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 1.966 seconds (process running for 2.217)
+2025-08-20 08:29:14 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 08:29:14 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 08:29:14 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2025-08-20 08:29:14 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 08:29:14 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7a761b90
+2025-08-20 08:29:14 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 08:34:22 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 08:34:22 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 08:40:15 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 42317 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 08:40:15 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 08:40:15 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 08:40:16 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 08:40:16 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 08:40:16 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2025-08-20 08:40:16 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 08:40:16 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 08:40:16 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 08:40:16 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 08:40:16 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 920 ms
+2025-08-20 08:40:17 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 08:40:17 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 2.086 seconds (process running for 2.422)
+2025-08-20 08:40:29 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 08:40:29 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 08:40:29 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-08-20 08:40:29 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 08:40:29 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2f45311d
+2025-08-20 08:40:29 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 08:45:06 [http-nio-8080-exec-2] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize value of type `java.lang.String` from Array value (token `JsonToken.START_ARRAY`)]
+2025-08-20 09:13:53 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 09:13:53 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 09:14:28 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 85787 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 09:14:28 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 09:14:28 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 09:14:29 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 09:14:29 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 09:14:29 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2025-08-20 09:14:29 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 09:14:29 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 09:14:29 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 09:14:29 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 09:14:29 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 829 ms
+2025-08-20 09:14:30 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 09:14:30 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 1.9 seconds (process running for 2.295)
+2025-08-20 09:14:35 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 09:14:35 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 09:14:35 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2025-08-20 09:14:49 [http-nio-8080-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 09:14:50 [http-nio-8080-exec-4] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@b1e8383
+2025-08-20 09:14:50 [http-nio-8080-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 09:20:18 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 09:20:18 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 09:20:29 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 94062 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 09:20:29 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 09:20:29 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 09:20:29 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 09:20:29 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 09:20:29 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2025-08-20 09:20:29 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 09:20:29 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 09:20:29 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 09:20:29 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 09:20:29 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 844 ms
+2025-08-20 09:20:30 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 09:20:30 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 2.107 seconds (process running for 2.409)
+2025-08-20 09:20:43 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 09:20:43 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 09:20:43 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2025-08-20 09:20:43 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 09:20:44 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@47c25f73
+2025-08-20 09:20:44 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 09:21:24 [http-nio-8080-exec-5] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2025-08-20 09:23:50 [http-nio-8080-exec-3] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2025-08-20 09:24:00 [http-nio-8080-exec-5] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2025-08-20 09:24:14 [http-nio-8080-exec-6] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2025-08-20 09:24:26 [http-nio-8080-exec-9] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2025-08-20 09:25:49 [http-nio-8080-exec-5] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2025-08-20 09:26:02 [http-nio-8080-exec-6] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2025-08-20 09:28:14 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 09:28:14 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 09:28:24 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 6644 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 09:28:24 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 09:28:24 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 09:28:24 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 09:28:24 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 09:28:24 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2025-08-20 09:28:24 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 09:28:24 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 09:28:24 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 09:28:25 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 09:28:25 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 915 ms
+2025-08-20 09:28:25 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 09:28:25 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 2.123 seconds (process running for 2.511)
+2025-08-20 09:28:31 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 09:28:31 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 09:28:31 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2025-08-20 09:28:31 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 09:28:31 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4432494
+2025-08-20 09:28:31 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 09:39:29 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 09:39:29 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 09:39:54 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication v1.0.0 using Java 17.0.12 with PID 25485 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/ai-prompt-platform-1.0.0.jar started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 09:39:54 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 09:39:54 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 09:39:54 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 09:39:54 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 09:39:54 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2025-08-20 09:39:55 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 09:39:55 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 09:39:55 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 09:39:55 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 09:39:55 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 895 ms
+2025-08-20 09:39:56 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 09:39:56 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 2.1 seconds (process running for 2.402)
+2025-08-20 09:40:10 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 09:40:10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 09:40:10 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2025-08-20 09:40:10 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 09:40:11 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@40e37ae8
+2025-08-20 09:40:11 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 10:25:23 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 10:25:23 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 10:25:34 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication using Java 17.0.12 with PID 74264 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/classes started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 10:25:34 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 10:25:34 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 10:25:34 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 10:25:34 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 10:25:34 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2025-08-20 10:25:34 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 10:25:34 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 10:25:34 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 10:25:34 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 10:25:34 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 683 ms
+2025-08-20 10:25:35 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 10:25:35 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 1.452 seconds (process running for 1.587)
+2025-08-20 10:25:44 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 10:25:44 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 10:25:44 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2025-08-20 10:25:45 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 10:25:45 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3a60012e
+2025-08-20 10:25:45 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 10:30:48 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 10:30:48 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 10:31:13 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication using Java 17.0.12 with PID 83623 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/classes started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 10:31:13 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 10:31:13 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 10:31:13 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 10:31:13 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 10:31:13 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2025-08-20 10:31:13 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 10:31:13 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 10:31:13 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 10:31:13 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 10:31:13 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 559 ms
+2025-08-20 10:31:14 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 10:31:14 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 1.476 seconds (process running for 1.629)
+2025-08-20 10:31:17 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 10:31:17 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 10:31:17 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-08-20 10:31:17 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 10:31:17 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6be5c90b
+2025-08-20 10:31:17 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 10:45:51 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 10:45:51 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 10:46:01 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication using Java 17.0.12 with PID 9589 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/classes started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 10:46:01 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 10:46:01 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 10:46:01 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 10:46:01 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 10:46:01 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 Redis repository interfaces.
+2025-08-20 10:46:01 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 10:46:01 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 10:46:01 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 10:46:01 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 10:46:01 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 561 ms
+2025-08-20 10:46:02 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 10:46:02 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 1.403 seconds (process running for 1.546)
+2025-08-20 10:46:12 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 10:46:12 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 10:46:12 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-08-20 10:46:12 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 10:46:13 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6264f722
+2025-08-20 10:46:13 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 10:52:37 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 10:52:37 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 10:53:21 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication using Java 17.0.12 with PID 21014 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/classes started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 10:53:21 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 10:53:21 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 10:53:21 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 10:53:21 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 10:53:21 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2025-08-20 10:53:22 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 10:53:22 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 10:53:22 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 10:53:22 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 10:53:22 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 498 ms
+2025-08-20 10:53:22 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 10:53:22 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 1.174 seconds (process running for 1.293)
+2025-08-20 10:53:27 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 10:53:27 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 10:53:27 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-08-20 10:53:27 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 10:53:27 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4771e6d7
+2025-08-20 10:53:27 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 11:02:38 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 11:02:38 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 11:02:49 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication using Java 17.0.12 with PID 34243 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/classes started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 11:02:49 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 11:02:49 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 11:02:49 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 11:02:49 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 11:02:49 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2025-08-20 11:02:50 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 11:02:50 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 11:02:50 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 11:02:50 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 11:02:50 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 572 ms
+2025-08-20 11:02:50 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 11:02:50 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 1.319 seconds (process running for 1.46)
+2025-08-20 11:02:55 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 11:02:55 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 11:02:55 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2025-08-20 11:02:55 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 11:02:56 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4d78854b
+2025-08-20 11:02:56 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 12:22:19 [http-nio-8080-exec-1] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'status' for method parameter type String is not present]
+2025-08-20 12:22:26 [http-nio-8080-exec-9] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'status' for method parameter type String is not present]
+2025-08-20 12:38:14 [http-nio-8080-exec-3] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' is not supported]
+2025-08-20 12:38:17 [http-nio-8080-exec-7] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' is not supported]
+2025-08-20 12:39:24 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 12:39:24 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-08-20 12:39:41 [main] INFO  c.p.AiPromptPlatformApplication - Starting AiPromptPlatformApplication using Java 17.0.12 with PID 46522 (/Users/tianyuhang/代码/ai-prompt-platform/backend/target/classes started by tianyuhang in /Users/tianyuhang/代码/ai-prompt-platform/backend)
+2025-08-20 12:39:41 [main] DEBUG c.p.AiPromptPlatformApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+2025-08-20 12:39:41 [main] INFO  c.p.AiPromptPlatformApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-20 12:39:41 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-08-20 12:39:41 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-08-20 12:39:41 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2025-08-20 12:39:41 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-08-20 12:39:41 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-20 12:39:41 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2025-08-20 12:39:41 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-20 12:39:41 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 558 ms
+2025-08-20 12:39:42 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-08-20 12:39:42 [main] INFO  c.p.AiPromptPlatformApplication - Started AiPromptPlatformApplication in 1.285 seconds (process running for 1.423)
+2025-08-20 12:39:53 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-20 12:39:53 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-20 12:39:53 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2025-08-20 12:39:53 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-08-20 12:39:54 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@347e284f
+2025-08-20 12:39:54 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-08-20 13:09:42 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-20 13:09:42 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.platform.mapper.PromptMapper">
+    <!-- 可以在这里添加自定义SQL -->
+    
+    <!-- 获取用户收藏的提示词分页 -->
+    <select id="selectUserFavoritesPage" resultType="com.platform.entity.Prompt">
+        SELECT p.*
+        FROM prompts p
+        INNER JOIN user_favorites uf ON p.id = uf.prompt_id
+        WHERE p.status = 'APPROVED'
+          AND uf.user_id = #{userId}
+        ORDER BY uf.create_time DESC
+    </select>
+    
+</mapper>
